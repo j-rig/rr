@@ -1,0 +1,28 @@
+Sref = 8.850000 
+Cref = 2.575000 
+Bref = 3.600000 
+X_cg = 0.732425 
+Y_cg = 0.000001 
+Z_cg = -0.000000 
+Mach = 0.150000, 0.1, 0.4, 0.9 
+AoA = 0.000000, 5.0, 10.0, 20.0, 40.0 
+Beta = 0.000000 
+Vinf = 100.000000 
+Rho = 0.002377 
+ReCref = 10000000.000000 
+ClMax = -1.000000 
+MaxTurningAngle = -1.000000 
+Symmetry = NO 
+FarDist = -1.000000 
+NumWakeNodes = 32 
+WakeIters = 5 
+NumberOfControlGroups = 1 
+elevons
+Wing_Surf0_elevon,Wing_Surf1_elevon
+-1, 1
+40
+Preconditioner = Matrix 
+Karman-Tsien Correction = N 
+Stability Type = 0 
+NumberOfQuadTrees = 1 
+1 2 0.000000 

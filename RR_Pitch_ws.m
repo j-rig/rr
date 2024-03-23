@@ -1,0 +1,7 @@
+load('RR.mat');
+SIM_ELEVONS=0.155; %deg
+SIM_THROTTLE=1; %pct
+SIM_G=G;
+SIM_INITAL_ALT=0; %ft
+SIM_INITAL_VEL=11; %ft/s
+SIM_PITCH=90; %deg
