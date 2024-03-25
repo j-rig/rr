@@ -6,5 +6,5 @@ SIM_INITAL_PITCH=90; %deg
 % SIM_LAUNCH=2000; %ft
 % SIM_CRUISE=0.5; % mach
 SIM_TARGET_ALT=-20000; %ft
-SIM_TARGET_X=10; %ft
+SIM_TARGET_X=1000; %ft
 SIM_TARGET_VEL=convvel(290,'kts','ft/s'); %/ft/s
